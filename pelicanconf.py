@@ -1,5 +1,5 @@
-AUTHOR = 'Clarisse G. Ewan R.'
-SITENAME = "C'est pas Jojo"
+AUTHOR = "Clarisse G. Ewan R."
+SITENAME = "Les JO, c'est pas jojo !"
 SITEURL = ""
 
 PATH = "content"
